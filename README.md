@@ -87,9 +87,8 @@ I’m Salem <br><br>
 
 <h3 align="left">🔥 My Stats</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemAlnaqbi&theme=dark)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SalemAlnaqbi&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalemAlnaqbi&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemAlnaqbi&theme=dark)
 
 <br><br>
 
