@@ -47,11 +47,14 @@ I’m Salem <br><br>
 
 - ⚡ **In my free time, I build applied AI projects**  
   using real energy and subsurface datasets, turning engineering problems into deployable ML solutions
+<br><br>
   
 <h3 align="left">🚀 Projects</h3>
 
+
 - **[Rock Classification using Deep Learning](https://github.com/SalemAlnaqbi/Rock-Classification)**  
   A computer vision project that applies Convolutional Neural Networks (CNNs) to classify carbonate rock types from image data, demonstrating how deep learning can support subsurface characterization and geoscience-driven decision making.
+<br><br>
 
 <h3 align="left">🛠 Tech Toolbox</h3>
 
