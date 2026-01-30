@@ -1,7 +1,7 @@
 <div align="center">
   <img
     height="150"
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZkMWt5eDE2dXhnMGtiNHNnOHB2ZnNyNXZmc3pnMGZwOGo3aW1qMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AfpXE9om1TtkcjpKhI/giphy.gif"
     style="pointer-events: none;"
   />
 </div>
