@@ -9,10 +9,11 @@
 ###
 
 <div align="center">
-<a href="https://linkedin.com/in/salemalnaqbi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" /></a>&nbsp;&nbsp;
-<a href="https://x.com/salem_alnaqbi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="25" /></a>&nbsp;&nbsp;
-<a href="mailto:salem.alnaqbi@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" height="25" /></a>
+<a href="https://linkedin.com/in/salemalnaqbi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" /></a>&nbsp;&nbsp;
+<a href="https://x.com/salem_alnaqbi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="25" /></a>&nbsp;&nbsp;
+<a href="mailto:salem.alnaqbi@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" height="25" /></a>
 </div>
+
 
 ###
 
