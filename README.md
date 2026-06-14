@@ -91,7 +91,7 @@ I’m Salem <br><br>
 
 <h3 align="left">🔥 My Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSalemAlnaqbi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?SalemAlnaqbi)](https://git.io/streak-stats)
 <br><br>
 
 <div align="center"> <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVjd3Rsb3drM2V5bzdpa2kwdms3bXEweTV2ZGJ1czZsamhpcDNqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GKDUD40CLQHRumFw8i/giphy.gif" /> </div>
