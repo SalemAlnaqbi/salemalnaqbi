@@ -91,7 +91,7 @@ I’m Salem <br><br>
 
 <h3 align="left">🔥 My Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-SalemAlnaqbi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SalemAlnaqbi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br><br>
 
