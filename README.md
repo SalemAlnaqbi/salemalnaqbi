@@ -51,7 +51,7 @@ I’m Salem <br><br>
 | 1 | [Rock Classification using Deep Learning](https://github.com/SalemAlnaqbi/Rock-Classification) | CNN-based classification of carbonate rock types from images to support subsurface characterization. |
 | 2 | [Water Quality pH Prediction Using Machine Learning](https://github.com/SalemAlnaqbi/Water-Quality-pH-Prediction-ML) | ML pipeline comparing Bayesian Ridge and LSTM for next-day pH prediction, achieving R²=0.83. |
 | 3 | [Image Caption Generation with CNN-LSTM](https://github.com/SalemAlnaqbi/Image_Caption_Generation) | Generates image captions using ResNet-152 encoder and LSTM decoder, evaluated with BLEU-4. |
-| 4 | [Insurance Fraud Detection]([https://github.com/SalemAlnaqbi/Image_Caption_Generation](https://github.com/SalemAlnaqbi/Insurance-Fraud-Detection)) | Detects fraudulent insurance claims using Random Forest and Logistic Regression across a 28,836-record multi-source dataset. Covers end-to-end ML pipeline: data merging, leakage-safe preprocessing, hyperparameter tuning, and model comparison with ROC-AUC, F1, and nested cross-validation. |
+| 4 | [Insurance Fraud Detection](https://github.com/SalemAlnaqbi/Insurance-Fraud-Detection) | Detects fraudulent insurance claims using Random Forest and Logistic Regression across a 28,836-record multi-source dataset. Covers end-to-end ML pipeline: data merging, leakage-safe preprocessing, hyperparameter tuning, and model comparison with ROC-AUC, F1, and nested cross-validation.|
 <br><br>
 
 <h3 align="left">🛠 Tech Toolbox</h3>
